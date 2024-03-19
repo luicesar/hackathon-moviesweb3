@@ -1,0 +1,391 @@
+[
+    {
+       "adult":false,
+       "backdrop_path":"/kXfqcdQKsToO0OUXHcrrNCHDBzO.jpg",
+       "genre_ids":[
+          18,
+          80
+       ],
+       "id":1,
+       "original_language":"en",
+       "original_title":"The Shawshank Redemption",
+       "overview":"Em 1946, Andy Dufresne, um banqueiro jovem e bem sucedido, tem a sua vida radicalmente modificada ao ser condenado por um crime que nunca cometeu, o homicídio de sua esposa e do amante dela. Ele é mandado para uma prisão que é o pesadelo de qualquer detento, a Penitenciária Estadual de Shawshank, no Maine. Lá ele irá cumprir a pena perpétua. Andy logo será apresentado a Warden Norton, o corrupto e cruel agente penitenciário, que usa a Bíblia como arma de controle e ao Capitão Byron Hadley que trata os internos como animais. Andy faz amizade com Ellis Boyd Redding, um prisioneiro que cumpre pena há 20 anos e controla o mercado negro da instituição.",
+       "popularity":112.545,
+       "poster_path":"/umX3lBhHoTV7Lsci140Yr8VpXyN.jpg",
+       "release_date":"1994-09-23",
+       "title":"Um Sonho de Liberdade",
+       "video":false,
+       "vote_average":"8.704",
+       "vote_count":25744
+    },
+    {
+       "adult":false,
+       "backdrop_path":"/tmU7GeKVybMWFButWEGl2M4GeiP.jpg",
+       "genre_ids":[
+          18,
+          80
+       ],
+       "id":2,
+       "original_language":"en",
+       "original_title":"The Godfather",
+       "overview":"Em 1945, Don Corleone é o chefe de uma mafiosa família italiana de Nova York. Ele costuma apadrinhar várias pessoas, realizando importantes favores para elas, em troca de favores futuros. Com a chegada das drogas, as famílias começam uma disputa pelo promissor mercado. Quando Corleone se recusa a facilitar a entrada dos narcóticos na cidade, não oferecendo ajuda política e policial, sua família começa a sofrer atentados para que mudem de posição. É nessa complicada época que Michael, um herói de guerra nunca envolvido nos negócios da família, vê a necessidade de proteger o seu pai e tudo o que ele construiu ao longo dos anos.",
+       "popularity":99.728,
+       "poster_path":"/oJagOzBu9Rdd9BrciseCm3U3MCU.jpg",
+       "release_date":"1972-03-14",
+       "title":"O Poderoso Chefão",
+       "video":false,
+       "vote_average":"8.695",
+       "vote_count":19558
+    },
+    {
+       "adult":false,
+       "backdrop_path":"/kGzFbGhp99zva6oZODW5atUtnqi.jpg",
+       "genre_ids":[
+          18,
+          80
+       ],
+       "id":3,
+       "original_language":"en",
+       "original_title":"The Godfather Part II",
+       "overview":"Após a máfia matar sua família, o jovem Vito foge da sua cidade na Sicília e vai para a América. Vito luta para manter sua família. Ele mata Black Hand Fanucci, que exigia dos comerciantes uma parte dos seus ganhos. Com a morte de Fanucci, o poderio de Vito cresce, mas sua família é o que mais importa para ele. Agora baseado no Lago Tahoe, Michael planeja fazer incursões em Las Vegas e Havana instalando negócios ligados ao lazer, mas descobre que aliados como Hyman Roth estão tentando matá-lo.",
+       "popularity":71.751,
+       "poster_path":"/7g6wvsWHxBQujUcSXvZLhdFpDUy.jpg",
+       "release_date":"1974-12-20",
+       "title":"O Poderoso Chefão: Parte II",
+       "video":false,
+       "vote_average":"8.575",
+       "vote_count":11813
+    },
+    {
+       "adult":false,
+       "backdrop_path":"/zb6fM1CX41D9rF9hdgclu0peUmy.jpg",
+       "genre_ids":[
+          18,
+          36,
+          10752
+       ],
+       "id":4,
+       "original_language":"en",
+       "original_title":"Schindler's List",
+       "overview":"O alemão Oskar Schindler viu na mão de obra judia uma solução barata e viável para lucrar com negócios durante a guerra. Com sua forte influência dentro do partido nazista, foi fácil conseguir as autorizações e abrir uma fábrica. O que poderia parecer uma atitude de um homem não muito bondoso, transformou-se em um dos maiores casos de amor à vida da História, pois este alemão abdicou de toda sua fortuna para salvar a vida de mais de mil judeus em plena luta contra o extermínio alemão.",
+       "popularity":61.064,
+       "poster_path":"/tagKKnJLK8W5qKJW7Cl2GR2OPCs.jpg",
+       "release_date":"1993-12-15",
+       "title":"A Lista de Schindler",
+       "video":false,
+       "vote_average":"8.565",
+       "vote_count":15199
+    },
+    {
+       "adult":false,
+       "backdrop_path":"/mSDsSDwaP3E7dEfUPWy4J0djt4O.jpg",
+       "genre_ids":[
+          16,
+          10751,
+          14
+       ],
+       "id":5,
+       "original_language":"ja",
+       "original_title":"千と千尋の神隠し",
+       "overview":"Chihiro e seus pais estão se mudando para uma cidade diferente. A caminho da nova casa, o pai decide pegar um atalho. Eles se deparam com uma mesa repleta de comida, embora ninguém esteja por perto. Chihiro sente o perigo, mas seus pais começam a comer. Quando anoitece, eles se transformam em porcos. Agora, apenas Chihiro pode salvá-los",
+       "popularity":92.679,
+       "poster_path":"/hhoKhsyJ3hFaxEm5pMdZRiTu2lJ.jpg",
+       "release_date":"2001-07-20",
+       "title":"A Viagem de Chihiro",
+       "video":false,
+       "vote_average":"8.539",
+       "vote_count":15604
+    },
+    {
+       "adult":false,
+       "backdrop_path":"/qqHQsStV6exghCM7zbObuYBiYxw.jpg",
+       "genre_ids":[
+          18
+       ],
+       "id":6,
+       "original_language":"en",
+       "original_title":"12 Angry Men",
+       "overview":"Um jovem porto-riquenho é acusado do brutal crime de ter matado o próprio pai. Quando ele vai a julgamento, doze jurados se reúnem para decidir a sentença, levando em conta que o réu deve ser considerado inocente até que se prove o contrário. Onze dos jurados têm plena certeza de que ele é culpado, e votam pela condenação, mas um jurado acha que é melhor investigar mais para que a sentença seja correta. Para isso ele terá que enfrentar diferentes interpretações dos fatos, e a má vontade dos outros jurados, que só querem ir logo para suas casas.",
+       "popularity":49.825,
+       "poster_path":"/q8RGf4SbVCObCySZ4PIGsn5wFm6.jpg",
+       "release_date":"1957-04-10",
+       "title":"12 Homens e uma Sentença",
+       "video":false,
+       "vote_average":"8.538",
+       "vote_count":8105
+    },
+    {
+       "adult":false,
+       "backdrop_path":"/90ez6ArvpO8bvpyIngBuwXOqJm5.jpg",
+       "genre_ids":[
+          35,
+          18,
+          10749
+       ],
+       "id":7,
+       "original_language":"hi",
+       "original_title":"दिलवाले दुल्हनिया ले जायेंगे",
+       "overview":"Raj e Simran são dois jovens indianos vivendo em Londres que, acidentalmente, se conhecem durante uma viagem pela Europa. Eles se apaixonam, mas Simran está prometida a um indiano. Raj não desanima e segue seu amor até a Índia, onde os dois tentam convencer a todos que precisam ficar juntos.",
+       "popularity":38.704,
+       "poster_path":"/2CAL2433ZeIihfX1Hb2139CX0pW.jpg",
+       "release_date":"1995-10-20",
+       "title":"Dilwale vai levar a noiva",
+       "video":false,
+       "vote_average":"8.533",
+       "vote_count":4355
+    },
+    {
+       "adult":false,
+       "backdrop_path":"/dqK9Hag1054tghRQSqLSfrkvQnA.jpg",
+       "genre_ids":[
+          18,
+          28,
+          80,
+          53
+       ],
+       "id":8,
+       "original_language":"en",
+       "original_title":"The Dark Knight",
+       "overview":"Após dois anos desde o surgimento do Batman, os criminosos de Gotham City têm muito o que temer. Com a ajuda do tenente James Gordon e do promotor público Harvey Dent, Batman luta contra o crime organizado. Acuados com o combate, os chefes do crime aceitam a proposta feita pelo Coringa e o contratam para combater o Homem-Morcego.",
+       "popularity":91.184,
+       "poster_path":"/iWXaUWpWLdB4tu0mlVElTKboPgD.jpg",
+       "release_date":"2008-07-16",
+       "title":"Batman: O Cavaleiro das Trevas",
+       "video":false,
+       "vote_average":"8.515",
+       "vote_count":31580
+    },
+    {
+       "adult":false,
+       "backdrop_path":"/hiKmpZMGZsrkA3cdce8a7Dpos1j.jpg",
+       "genre_ids":[
+          35,
+          53,
+          18
+       ],
+       "id":9,
+       "original_language":"ko",
+       "original_title":"기생충",
+       "overview":"Toda a família de Ki-taek está desempregada, vivendo num porão sujo e apertado. Uma obra do acaso faz com que o filho adolescente da família comece a dar aulas de inglês à garota de uma família rica. Fascinados com a vida luxuosa destas pessoas, pai, mãe, filho e filha bolam um plano para se infiltrarem também na família burguesa, um a um. No entanto, os segredos e mentiras necessários à ascensão social custarão caro a todos.",
+       "popularity":89.227,
+       "poster_path":"/igw938inb6Fy0YVcwIyxQ7Lu5FO.jpg",
+       "release_date":"2019-05-30",
+       "title":"Parasita",
+       "video":false,
+       "vote_average":"8.51",
+       "vote_count":17236
+    },
+    {
+       "adult":false,
+       "backdrop_path":"/vxJ08SvwomfKbpboCWynC3uqUg4.jpg",
+       "genre_ids":[
+          14,
+          18,
+          80
+       ],
+       "id":10,
+       "original_language":"en",
+       "original_title":"The Green Mile",
+       "overview":"Milagres acontecem em lugares inesperados, mesmo no bloco de celas para o corredor da morte na Penitenciária Cold Mountain. Lá, John Coffey, um gentil e gigante prisioneiro com poderes sobrenaturais, traz um senso de espírito e humanidade aos seus guardas e colegas de cela.",
+       "popularity":70.095,
+       "poster_path":"/14hEqW67IiHlKpzKMLUXyktzZIV.jpg",
+       "release_date":"1999-12-10",
+       "title":"À Espera de um Milagre",
+       "video":false,
+       "vote_average":"8.508",
+       "vote_count":16579
+    },
+    {
+       "adult":false,
+       "backdrop_path":"/dIWwZW7dJJtqC6CgWzYkNVKIUm8.jpg",
+       "genre_ids":[
+          16,
+          10749,
+          18
+       ],
+       "id":11,
+       "original_language":"ja",
+       "original_title":"君の名は。",
+       "overview":"Mitsuha é a filha do prefeito de uma pequena cidade, mas sonha em tentar a sorte em Tóquio. Taki trabalha em um restaurante em Tóquio e deseja largar o seu emprego. Os dois não se conhecem, mas estão conectados pelas imagens de seus sonhos.",
+       "popularity":70.91,
+       "poster_path":"/bMOKAjTU1TNUjRSF7icldbii06u.jpg",
+       "release_date":"2016-08-26",
+       "title":"Your Name.",
+       "video":false,
+       "vote_average":"8.496",
+       "vote_count":10807
+    },
+    {
+       "adult":false,
+       "backdrop_path":"/suaEOtk1N1sgg2MTM7oZd2cfVp3.jpg",
+       "genre_ids":[
+          53,
+          80
+       ],
+       "id":12,
+       "original_language":"en",
+       "original_title":"Pulp Fiction",
+       "overview":"Vincent Vega e Jules Winnfield são dois assassinos profissionais que trabalham fazendo cobranças para Marsellus Wallace, um poderosos gângster. Vega é forçado a sair com a garota do chefe, temendo passar dos limites. Enquanto isso, o pugilista Butch Coolidge se mete em apuros por ganhar uma luta que deveria perder.",
+       "popularity":87.143,
+       "poster_path":"/wGPP9ZOoYpLd9MnFxuDH3WKRL2t.jpg",
+       "release_date":"1994-09-10",
+       "title":"Pulp Fiction: Tempo de Violência",
+       "video":false,
+       "vote_average":"8.489",
+       "vote_count":26761
+    },
+    {
+       "adult":false,
+       "backdrop_path":"/2u7zbn8EudG6kLlBzUYqP8RyFU4.jpg",
+       "genre_ids":[
+          12,
+          14,
+          28
+       ],
+       "id":13,
+       "original_language":"en",
+       "original_title":"The Lord of the Rings: The Return of the King",
+       "overview":"O confronto final entre as forças do bem e do mal que lutam pelo controle do futuro da Terra Média se aproxima. Sauron planeja um grande ataque a Minas Tirith, capital de Gondor, o que faz com que Gandalf e Pippin partam para o local na intenção de ajudar a resistência. Um exército é reunido por Theoden em Rohan, em mais uma tentativa de deter as forças de Sauron. Enquanto isso, Frodo, Sam e Gollum seguem sua viagem rumo à Montanha da Perdição para destruir o anel.",
+       "popularity":96.411,
+       "poster_path":"/aXS3D94iIO9dheHrG0BhgUR4Wuy.jpg",
+       "release_date":"2003-12-01",
+       "title":"O Senhor dos Anéis: O Retorno do Rei",
+       "video":false,
+       "vote_average":"8.5",
+       "vote_count":23128
+    },
+    {
+       "adult":false,
+       "backdrop_path":"/qdIMHd4sEfJSckfVJfKQvisL02a.jpg",
+       "genre_ids":[
+          35,
+          18,
+          10749
+       ],
+       "id":14,
+       "original_language":"en",
+       "original_title":"Forrest Gump",
+       "overview":"Quarenta anos da história dos Estados Unidos, vistos pelos olhos de Forrest Gump, um rapaz com QI abaixo da média e com boas intenções. Por obra do acaso, ele consegue participar de momentos cruciais, como a Guerra do Vietnã e o Caso Watergate, mas continua pensando no seu amor de infância, Jenny Curran.",
+       "popularity":91.495,
+       "poster_path":"/d74WpIsH8379TIL4wUxDneRCYv2.jpg",
+       "release_date":"1994-06-23",
+       "title":"Forrest Gump: O Contador de Histórias",
+       "video":false,
+       "vote_average":"8.477",
+       "vote_count":26286
+    },
+    {
+       "adult":false,
+       "backdrop_path":"/sw7mordbZxgITU877yTpZCud90M.jpg",
+       "genre_ids":[
+          18,
+          80
+       ],
+       "id":15,
+       "original_language":"en",
+       "original_title":"GoodFellas",
+       "overview":"Um jovem cresce na máfia e trabalha arduamente para crescer entre seus companheiros. Ele gosta da vida de dinheiro e luxo, mas não liga para o horror que provoca. Infelizmente, a dependência de drogas e alguns erros finalmente destroem sua escalada até o topo. Baseado no livro Wiseguy por Nicholas Pileggi.",
+       "popularity":62.059,
+       "poster_path":"/qNkzJc9PmGcNMkqHRqQWMZgKTGc.jpg",
+       "release_date":"1990-09-12",
+       "title":"Os Bons Companheiros",
+       "video":false,
+       "vote_average":"8.467",
+       "vote_count":12211
+    },
+    {
+       "adult":false,
+       "backdrop_path":"/Adrip2Jqzw56KeuV2nAxucKMNXA.jpg",
+       "genre_ids":[
+          37
+       ],
+       "id":16,
+       "original_language":"it",
+       "original_title":"Il buono, il brutto, il cattivo",
+       "overview":"Durante o auge da Guerra Civil, um misterioso pistoleiro vaga pela fronteira do oeste. Ele não possui um lar, lealdade ou companhia... Até que encontra dois estrangeiros, que são tão brutos e desapegados quanto ele. Unidos pelo destino, os três homens juntam suas forças para tentar encontrar uma fortuna em ouro roubado. Mas trabalho em equipe não é uma coisa natural para voluntariosos pistoleiros, e eles logo descobrem que seu maior desafio é concentrar-se em sua perigosa missão — e em manterem-se vivos — atravessando um país arrasado pela guerra.",
+       "popularity":59.821,
+       "poster_path":"/16z08yn82sTmdSS7nsGvRNDIVnz.jpg",
+       "release_date":"1966-12-22",
+       "title":"Três Homens em Conflito",
+       "video":false,
+       "vote_average":"8.465",
+       "vote_count":8124
+    },
+    {
+       "adult":false,
+       "backdrop_path":"/dlC0ed9Ugh3FzydnkBtV5lRXUu4.jpg",
+       "genre_ids":[
+          16,
+          18,
+          10752
+       ],
+       "id":17,
+       "original_language":"ja",
+       "original_title":"火垂るの墓",
+       "overview":"O filme relata a história de dois irmãos, Seita e Setsuko, no período da Segunda Guerra Mundial no Japão. O pai deles é convocado para defender o país na guerra, pois faz parte da marinha japonesa e a mãe falece em um bombardeio de aviões norte-americanos. A partir daí, o filme mostra a luta pela sobrevivência das duas crianças em meio à pobreza e miséria que assola o país. Fome, doenças e a falta de generosidade e sensibilidade dos adultos faz deste percurso um dos filmes mais bonitos e comoventes sobre o trágico quadro gerado pela guerra.",
+       "popularity":0.6,
+       "poster_path":"/kHFUyxNJfhMkKk1FwrNHd62KTEs.jpg",
+       "release_date":"1988-04-16",
+       "title":"O Túmulo dos Vagalumes",
+       "video":false,
+       "vote_average":"8.463",
+       "vote_count":5141
+    },
+    {
+       "adult":false,
+       "backdrop_path":"/zoVeIgKzGJzpdG6Gwnr7iOYfIMU.jpg",
+       "genre_ids":[
+          18,
+          10749
+       ],
+       "id":18,
+       "original_language":"it",
+       "original_title":"Nuovo Cinema Paradiso",
+       "overview":"Um diretor de cinema lembra como, em sua infância, ele se apaixonou pelo cinema de sua cidade e iniciou uma profunda amizade com o projetista.",
+       "popularity":31.999,
+       "poster_path":"/vjB2KkwdPp1Jk0LxCKfBFXJQVAo.jpg",
+       "release_date":"1988-11-17",
+       "title":"Cinema Paradiso",
+       "video":false,
+       "vote_average":"8.456",
+       "vote_count":4138
+    },
+    {
+       "adult":false,
+       "backdrop_path":"/gavyCu1UaTaTNPsVaGXT6pe5u24.jpg",
+       "genre_ids":[
+          35,
+          18
+       ],
+       "id":19,
+       "original_language":"it",
+       "original_title":"La vita è bella",
+       "overview":"Durante a Segunda Guerra Mundial na Itália, o judeu Guido e seu filho Giosué são levados para um campo de concentração nazista. Afastado da mulher, ele tem que usar sua imaginação para fazer o menino acreditar que estão participando de uma grande brincadeira, com o intuito de protegê-lo do terror e da violência que os cercam.",
+       "popularity":42.956,
+       "poster_path":"/h8PEObIiYUo4wHGo2qgWge2wqzv.jpg",
+       "release_date":"1997-12-20",
+       "title":"A Vida é Bela",
+       "video":false,
+       "vote_average":"8.453",
+       "vote_count":12609
+    },
+    {
+       "adult":false,
+       "backdrop_path":"/qvZ91FwMq6O47VViAr8vZNQz3WI.jpg",
+       "genre_ids":[
+          28,
+          18
+       ],
+       "id":20,
+       "original_language":"ja",
+       "original_title":"七人の侍",
+       "overview":"No século XVI, durante a era Sengoku, quando os poderosos samurais de outrora estavam com os dias contados, pois eram agora desprezados pelos seus aristocráticos senhores. Kambei (Takashi Shimura), um guerreiro veterano sem dinheiro, chega em uma aldeia indefesa que foi saqueada repetidamente por ladrões assassinos. Os moradores do vilarejo pedem sua ajuda, fazendo com que Kambei recrute seis outros ronins (samurais sem mestre), que concordam em ensinar os habitantes como devem se defender em troca de comida. Os aldeões dão boas-vindas aos guerreiros e algumas relações começam. Katsushiro (Ko Kimura) se apaixona por uma das mulheres locais, embora os outros ronins mantenham distância dos camponeses. O último dos guerreiros que chega é Kikuchio (Toshiro Mifune), que finge estar qualificado mas na realidade é o filho de um camponês que almeja aceitação.",
+       "popularity":31.542,
+       "poster_path":"/telXEMxGtJvffm5JDsx1rQzwWlf.jpg",
+       "release_date":"1954-04-26",
+       "title":"Os Sete Samurais",
+       "video":false,
+       "vote_average":"8.452",
+       "vote_count":3424
+    }
+ ]
