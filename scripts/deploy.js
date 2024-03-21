@@ -30,10 +30,12 @@ async function main() {
   for (var i = 0; i < listMovies.length; i++) {
     const cost = 12 + i;
 
-    const transaction = await ethMoviesWeb3.connect(deployer).list(listMovies[i].title, tokens(7), listMovies[i].vote_average, listMovies[i].poster_path)
-    await transaction.wait()
+  // const transaction = await ethMoviesWeb3.connect(deployer).list(listMovies[i].title, tokens(7), listMovies[i].vote_average, listMovies[i].poster_path)
+  const transaction = await ethMoviesWeb3.connect(deployer).list(listMovies[i].title, tokens(0.001), listMovies[i].vote_average, listMovies[i].poster_path)
+  await transaction.wait()
 
-    console.log(`Listed Movie ${listMovies[i].id}: ${listMovies[i].title}`)
+  console.log(`Listed Movie ${listMovies[i].id}: ${listMovies[i].title}`)
+
   }
 }
 

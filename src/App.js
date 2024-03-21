@@ -35,7 +35,8 @@ function App() {
 
     //3-passo a passo para testar
     const network = await provider.getNetwork()
-    const ethMoviesWeb3 = new ethers.Contract(config[network.chainId].ETHMoviesWeb3.address, ETHMoviesWeb3, provider)
+    // const ethMoviesWeb3 = new ethers.Contract(config[network.chainId].ETHMoviesWeb3.address, ETHMoviesWeb3, provider)
+    const ethMoviesWeb3 = new ethers.Contract(config[31337].ETHMoviesWeb3.address, ETHMoviesWeb3, provider)
     setETHMoviesWeb3(ethMoviesWeb3)
 
     //4-passo a passo para testar
